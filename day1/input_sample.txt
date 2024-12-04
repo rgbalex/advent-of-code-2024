@@ -1,0 +1,9 @@
+3   4
+4   3
+2   5
+1   3
+3   9
+3   3
+
+So, for these example lists, the similarity score at the end of this process is 31 
+(9 + 4 + 0 + 0 + 9 + 9).

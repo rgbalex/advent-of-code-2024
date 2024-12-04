@@ -1,0 +1,14 @@
+5   2
+2   1
+2   2
+3   6
+4   3
+2   5
+
+21148610 too small
+
+22930736 not the right answer
+
+23081747 too high
+
+46098374 not the right answer 
